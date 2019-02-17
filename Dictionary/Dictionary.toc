@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Dictionary
+## Notes: Helps you learn new words and enhance your dictionary while playing World of Warcraft!
+## SavedVariables: Dictionary_config
+DictionaryCore.lua
+DictionaryDB.lua
+Dictionary.lua
